@@ -1,9 +1,15 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification
+  name: University of Applied Sciences Kaiserslautern
+  dates: 2015 – 2018
+  qualification: MSc in Computer Science
+  #quote: >
+    #Short institution or course description (optional)
+  #description: | # this will include new lines to allow paragraphs
+  #  Description of qualification
+
+- layout: right
+  name: University of Applied Sciences Kaiserslautern
+  dates: 2012 – 2015
+  qualification: BSc in Applied Computer Science
+  

@@ -1,10 +1,13 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of role
+  company: University of Applied Sciences Kaiserslautern
+  link: https://www.hs-kl.de/
+  job_title: Project employee
+  dates: 2018 – present
+
+- layout: left
+  company: University of Applied Sciences Kaiserslautern
+  link: https://www.hs-kl.de/
+  job_title: Assistent
+  dates: 2016 – present
+ 
