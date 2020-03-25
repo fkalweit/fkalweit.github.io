@@ -1,9 +1,8 @@
 # Project template
 - layout: top-middle
   name: Coworking Finder
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  github: https://github.com/fkalweit/CoworkingFinder
   quote: >
-    Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Eine Python-Anwendung für die Planung und Visualisierung von Standorten für Coworking Spaces im Bundesland Rheinland-Pfalz. Die Software wird gemeinsam mit der Entwicklungsagentur Rheinland-Pfalz erstellt.
+  #description: | # this will include new lines to allow paragraphs
+  #  Description about the work on/with the project
