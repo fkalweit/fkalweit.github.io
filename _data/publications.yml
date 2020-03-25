@@ -1,12 +1,10 @@
 # Publications template
-- layout: top-left
-  company: University of Applied Sciences Kaiserslautern
-  link: https://www.hs-kl.de/
-  job_title: Project employee
-  dates: 2018 – present
+- title: "Game of Drones: How to Control a UAV?"
+        #link: "https://link.springer.com/chapter/10.1007/978-3-319-58077-7_34"
+        authors: Conrad J., Wallach D., Kalweit F., Lindel P., Templin S.
+        conference: HCI International, 2017
+        discription: |
+          This paper explores the usage of different game controllers as input device to control an UAV.
+          In an explorative study, participants fulfill a predefined flying task and report their expectations before and experiences after performing the flight with different gaming controllers.
+          The resulting insights are a basis for further interaction research activities.
 
-- layout: top-right
-  company: University of Applied Sciences Kaiserslautern
-  link: https://www.hs-kl.de/
-  job_title: Assistent
-  dates: 2016 – present

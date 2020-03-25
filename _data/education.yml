@@ -1,5 +1,5 @@
 # Education Template
-- layout: top
+- layout: top-middle
   name: University of Applied Sciences Kaiserslautern
   dates: 2015 – 2018
   qualification: MSc in Computer Science
@@ -8,7 +8,7 @@
   #description: | # this will include new lines to allow paragraphs
   #  Description of qualification
 
-- layout: top
+- layout: top-middle
   name: University of Applied Sciences Kaiserslautern
   dates: 2012 – 2015
   qualification: BSc in Applied Computer Science
