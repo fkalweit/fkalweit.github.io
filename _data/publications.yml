@@ -1,10 +1,4 @@
 # Publications template
-
-- layout: top-middle
-  name: University of Applied Sciences Kaiserslautern
-  dates: 2012 – 2015
-  qualification: BSc in Applied Computer Science
-
 - layout: top-middle
   title: "Game of Drones: How to Control a UAV?"
   authors: Conrad J., Wallach D., Kalweit F., Lindel P., Templin S.
