@@ -1,11 +1,11 @@
 # Experience template
-- layout: left
+- layout: top-middle
   company: University of Applied Sciences Kaiserslautern
   link: https://www.hs-kl.de/
   job_title: Project employee
   dates: 2018 – present
 
-- layout:  right
+- layout:  top-middle
   company: University of Applied Sciences Kaiserslautern
   link: https://www.hs-kl.de/
   job_title: Assistent
