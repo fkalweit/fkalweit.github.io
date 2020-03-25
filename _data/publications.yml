@@ -1,12 +1,12 @@
 # Publications template
-- layout: left
+- layout: top-right
   name: Project name
   company: University of Applied Sciences Kaiserslautern
   link: https://www.hs-kl.de/
   job_title: Project employee
   dates: 2018 – present
 
-- layout:  right
+- layout: top-right
   name: Project name
   company: University of Applied Sciences Kaiserslautern
   link: https://www.hs-kl.de/
