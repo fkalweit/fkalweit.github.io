@@ -3,7 +3,7 @@
   title: "Game of Drones: How to Control a UAV?"
   authors: Conrad J., Wallach D., Kalweit F., Lindel P., Templin S.
   conference: HCI International, 2017
-   quote: >
+  quote: >
     This paper explores the usage of different game controllers as input device to control an UAV.
     In an explorative study, participants fulfill a predefined flying task and report their expectations before and experiences after performing the flight with different gaming controllers.
     The resulting insights are a basis for further interaction research activities.
