@@ -1,25 +1,25 @@
 # Project template
 - layout: top-middle
   name: Coworking Finder
-  github: https://github.com/fkalweit/CoworkingFinder
+  github: /fkalweit/CoworkingFinder
   quote: >
     Python application used to plan and visualize coworking spaces. The application is developed in cooperation with the "Entwicklungsagentur Rheinland-Pfalz e.V.".
    
 - layout: top-middle
   name: Astrophotocalc
-  github: https://github.com/fkalweit/astrophotocalc
+  github: /fkalweit/astrophotocalc
   quote: >
     Android app that tells you how to set your shutter speed so you get clear stars.
 
 - layout: top-middle
   name: AIS-Drone
-  github: https://github.com/fkalweit/AIS-Drone
+  github: /fkalweit/AIS-Drone
   quote: >
     Controll a drone with xbox controller, joystick or WII Balance Board.
 
 - layout: top-middle
   name: Python Turorial
-  github: https://github.com/MBrill/Python-Tutorial
+  github: /MBrill/Python-Tutorial
   quote: >
     German Python Tutorial created with students at the University of Applied Sciences Kaiserslautern. (WIP)
 
