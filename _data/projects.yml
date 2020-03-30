@@ -4,8 +4,7 @@
   github: https://github.com/fkalweit/CoworkingFinder
   quote: >
     Python application used to plan and visualize coworking spaces. The application is developed in cooperation with the "Entwicklungsagentur Rheinland-Pfalz e.V.".
-    Eine Python-Anwendung für die Planung und Visualisierung von Standorten für Coworking Spaces im Bundesland Rheinland-Pfalz. Die Software wird gemeinsam mit der Entwicklungsagentur Rheinland-Pfalz erstellt.
-
+   
 - layout: top-middle
   name: Astrophotocalc
   github: https://github.com/fkalweit/astrophotocalc
