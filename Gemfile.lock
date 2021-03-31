@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     modern-resume-theme (2.0.2)
-      github-pages (~> 198)
+      github-pages (~> 213)
       jekyll-seo-tag (~> 2.1)
 
 GEM
