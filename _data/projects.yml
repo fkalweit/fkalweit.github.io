@@ -1,7 +1,6 @@
 # Project template
 - layout: top-middle
   name: Coworking Finder
-  github: /fkalweit/CoworkingFinder
   quote: >
     Python application used to plan and visualize coworking spaces. The application is developed in cooperation with the "Entwicklungsagentur Rheinland-Pfalz e.V.".
    
