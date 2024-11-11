@@ -46,10 +46,12 @@ github_username:  fkalweit
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   
-   Interests:
-      - Hiking
-      - Photography
-      - Travel
+  I’m someone who thrives on new experiences, whether that’s through traveling to unfamiliar places, hiking in nature, or capturing moments through photography. 
+  These activities not only fuel my curiosity but also help me approach challenges with creativity and a fresh perspective. 
+  As a software developer, I channel these qualities into my work, bringing a thoughtful and innovative approach to the projects I share on my GitHub profile. 
+  My diverse experiences have also shaped my ability to adapt, communicate effectively, and collaborate, making me a valuable team player in any environment.
+ 
+
  
 
 # Projects Section
